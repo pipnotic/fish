@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+	<session>
+		<top><![CDATA[C:\BACKUP\sharpe\Unencrypted\TEMP]]></top>
+		<hash function="sha1" />
+		<file maxsize="4096" />
+		<extensions>
+			<extension value="" />
+		</extensions>
+		<denyrules>
+			<rule><![CDATA[NtUninstall]]></rule>
+			<rule><![CDATA[Microsoft.NET]]></rule>
+			<rule><![CDATA[pdk-]]></rule>
+		</denyrules>
+	</session>
+	<files>
+		<output>db.xml</output>
+		<sigdb>db1.xml</sigdb>
+		<report>report.xml</report>
+		<errors>errors.xml</errors>
+	</files>
+</configuration>

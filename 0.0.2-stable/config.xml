@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+	<session>
+		<top><![CDATA[C:/]]></top>
+		<hash>sha1</hash>
+		<extensions>
+			<extension value=".exe" />
+			<extension value=".dll" />
+			<extension value=".dl_" />
+			<extension value=".sys" />
+		</extensions>
+		<denyrules>
+			<rule><![CDATA[NtUninstall]]></rule>
+			<rule><![CDATA[Microsoft.NET]]></rule>
+			<rule><![CDATA[pdk-]]></rule>
+		</denyrules>
+	</session>
+	<files>
+		<output>db.xml</output>
+		<sigdb>db.xml</sigdb>
+		<report>report.xml</report>
+		<errors>errors.xml</errors>
+	</files>
+</configuration>

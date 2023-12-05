@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<fish>
+	<session date="Tue Aug 31 14:48:57 2010" filetypes=".dll:.exe:.ocx" hash="md5" maxfilesize="4096">
+		<files>
+			<altered count="0">
+			</altered>
+			<new count="1">
+				<file ctime="Tue Aug 31 14:38:55 2010" mtime="Mon Aug 23 15:40:19 2010" bytes="513369" kbytes="501.3369140625" mbytes="0.48958683013916"><![CDATA[C://BACKUP/sharpe/Unencrypted/TEMP/Copy of sbsetup.exe]]></file>
+			</new>
+		<deleted count="0">
+		</deleted>
+	</files>
+	</session>
+</fish>

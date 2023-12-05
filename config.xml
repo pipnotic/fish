@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+	<session>
+		<top><![CDATA[C:/masm32]]></top>
+		<hash>sha1</hash>
+		<extensions>
+			<extension value="exe" />
+			<extension value="dll" />
+		</extensions>
+		<denyrules>
+			<rule><![CDATA[NtUninstall]]></rule>
+			<rule><![CDATA[Microsoft.NET]]></rule>
+			<rule><![CDATA[hf_mig]]></rule>
+			<rule><![CDATA[pdf-]]></rule>
+		</denyrules>
+	</session>
+	<files>
+		<output>db.xml</output>
+		<sigdb>05.05.09.XML</sigdb>
+		<report>report.xml</report>
+		<errors>errors.xml</errors>
+	</files>
+</configuration>

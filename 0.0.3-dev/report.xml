@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<fish>
+	<session date="Mon Aug  9 14:09:03 2010" filetypes="" hash="sha1" maxfilesize="4096">
+		<files>
+			<altered count="0">
+			</altered>
+			<new count="0">
+			</new>
+		<deleted count="1">
+			<deleted hash="cbe01270d9ac4471375b0ac546dee462f8cc02e7"><![CDATA[C:\BACKUP\sharpe\Unencrypted\TEMP/stats.txt]]></deleted>
+		</deleted>
+	</files>
+	</session>
+</fish>
